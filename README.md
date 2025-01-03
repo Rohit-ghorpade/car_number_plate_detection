@@ -12,8 +12,7 @@ This project is a real-time car number plate detection system using OpenCV and H
 ## Requirements
 
 - Python 3.13
-- OpenCV
-- Haar Cascade Classifier for car plates
+- OpenCV-python
 
 ## Installation
 

@@ -6,18 +6,15 @@ setup(
     author="Rohit Ghorpade",
     author_email="rohitghorpade098@gmail.com",
     description="A real-time car number plate detection system using OpenCV and Haar Cascade Classifier.",
-    long_description=open('README.md').read(),
-    long_description_content_type='text/markdown',
-    url="https://github.com/yourusername/car_number_plate",
     packages=find_packages(),
     install_requires=[
         'opencv-python',
         'numpy'
     ],
     classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3.10",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.10',
+    
 )

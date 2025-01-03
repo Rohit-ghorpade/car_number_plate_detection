@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Rohit-ghorpade/car_number_plate_detection.git
+git branch -M main
+git push -u origin main
