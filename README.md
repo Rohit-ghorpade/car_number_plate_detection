@@ -19,4 +19,4 @@ This project is a real-time car number plate detection system using OpenCV and H
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/car_number_plate.git
+   git clone https://github.com/Rohit-ghorpade/car_number_plate_detection
